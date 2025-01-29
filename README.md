@@ -1,2 +1,6 @@
 <h1>SISTEMA DE REGISTRO</h1>
-- ESTADO DE REGISTRO: EN CREACION.
+- Estado del proyecto: En construcción.
+
+para ejecutar el sistema debes poner:
+
+```npm inatall react```
